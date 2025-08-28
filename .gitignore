@@ -1,0 +1,26 @@
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos de configuração de editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema operacional
+.DS_Store
+
+# Pastas de build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Livro em pdf
+Grokking_Algorithms_Entendendo_Algoritmos.pdf
